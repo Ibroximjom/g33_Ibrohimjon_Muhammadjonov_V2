@@ -1,0 +1,4 @@
+[2023-11-06 09:15:30] [user123] [john.doe@example.com] [Uchrashuv eslatmasi]
+[2023-11-06 11:45:15] [alice.smith] [support@company.com] [Mahsulot so'rovi]
+[2023-11-06 14:20:00] [admin] [customer.service@example.org] [Hisobni tekshirish]
+[2023-11-06 16:30:45] [marketing_team] [jane@partnership.com] [Hamkorlik taklifi]
